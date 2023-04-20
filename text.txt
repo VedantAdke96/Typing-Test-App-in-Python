@@ -1,0 +1,6 @@
+Type me to find out how many words you can type per minute
+The quick brown fox jumped over the rest of the sentence i forgot.
+This is another block of text for the test
+The beautiful little butterflies fly away in the sky
+This game is coded in python and curses module
+Hello world this game is developed by Vedant Adke
